@@ -14,7 +14,7 @@ Aplicación interactiva en **Streamlit** que permite:
    - `README.md`
    - (opcional) `docs/caso.pdf`
 
-2. Ve a [share.streamlit.io](https://share.streamlit.io) → **New app** → conecta tu GitHub → selecciona el repo y rama.
+2. Ve a [share.streamlit.io](https://iot-integridad-lab.streamlit.app/) → **New app** → conecta tu GitHub → selecciona el repo y rama.
 
 3. Configuración:
    - **Main file**: `app.py`
